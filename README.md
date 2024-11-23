@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 **Background**: The Joy Maker’s origins are shrouded in mystery, but legend says they were born with a peculiar gift: the ability to transform the mundane into the magnificent, the ordinary into the absurdly joyful. It’s rumored that they once worked in the shadows of corporate coding, where they grew weary of lifeless databases, somber UI designs, and the silent tyranny of error logs. Driven by a need to infuse happiness into the sterile world of technology, The Joy Maker set off on a quest to build something... different.
 
-**Creations**: 
-- **HappyJoyCMS**: A CMS like no other—one that doesn’t just organize and manage content but actively sparks joy in its users. With features like “Joy Mode,” “Happy Modules,” and easter eggs hidden across its interface, *HappyJoyCMS* is The Joy Maker’s magnum opus, a celebration of code that’s not just functional, but downright fun
-
 **Personality**: Often described as a “mad scientist of merriment,” The Joy Maker approaches technology with an almost childlike wonder. Though undeniably brilliant, they possess a playful streak that leads to unexpected design choices and bursts of creative chaos. The Joy Maker believes that work should feel like play and that every project is an opportunity to create something that brings light to others.
 
 **Motto**: “The web is a playground—let’s make it joyful.”
